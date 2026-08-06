@@ -1,17 +1,21 @@
 # 💻 Daily Programming Challenge
 
-Consistent daily DSA practice — solving problems, tracking progress, and building interview-ready problem-solving skills for placements.
+Consistent daily Python practice — solving problems, tracking progress, and building interview-ready problem-solving skills for placements.
 
 ## 🎯 Goal
 
-Solve at least one problem every day, covering core DSA topics in order, following a structured resource (Striver's A2Z / NeetCode 150).
+Solve at least one problem every day
 
-## 🗓️ Progress Tracker
+### 1.Print "Hello World"
+```Python
+print("Hello World")
+```
 
-| Date | Day | Problem | Topic | Difficulty | Link | Status |
-|------|-----|---------|-------|------------|------|--------|
-| 2026-08-06 | Day 1 | Two Sum | Arrays | Easy | [LeetCode](https://leetcode.com/problems/two-sum/) | ✅ |
-
-> Update this table daily. Add a new row for each problem solved.
-
-## 📂 Repository Structure
+### 2.Print your name, age, and college
+```Python
+name="sabarinathan"
+age=20
+college="jct"
+print(name)
+print(age)
+print(college)
