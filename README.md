@@ -157,5 +157,13 @@ celsius=float(input())
 fahrenheit=(9/5)*celsius+32
 print(fahrenheit)
 ```   
-
+## 3. Operators
+### 21.Check even or odd
+```Python
+a=int(input())
+if a%2==0:
+   print("even")
+else:
+   print("odd")
+```
 
