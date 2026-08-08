@@ -151,7 +151,7 @@ area=0.5*base*height
 print(area)
 ```
 
-### 20.Convert Celsius to Fahrenheit
+### 20.Convert Celsius to Fahrenheit 
 ```Python
 celsius=float(input())
 fahrenheit=(9/5)*celsius+32
