@@ -190,4 +190,15 @@ elif b >= a and b >= c:
 else:
     print(c)
 ```
+### 24.Positive, negative, or zero
+```Python
+n = int(input())
+
+if n > 0:
+    print("Positive")
+elif n < 0:
+    print("Negative")
+else:
+    print("Zero")
+```
 
