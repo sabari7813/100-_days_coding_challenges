@@ -166,4 +166,14 @@ if a%2==0:
 else:
    print("odd")
 ```
+### 22.Greatest of two numbers
+```Python
+a = int(input())
+b = int(input())
+
+if a > b:
+    print(a)
+else:
+    print(b)
+```
 
