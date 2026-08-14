@@ -8,7 +8,7 @@ Solve at least one problem every day
 
 ### 1.Print "Hello World"
 ```Python
-print("Hello World")
+print("Hello World") 
 ```
 
 ### 2.Print your name, age, and college
